@@ -1,0 +1,93 @@
+route_id,route_name,sequence,stop_name,latitude,longitude,landmark_type,stage_fare_inr
+218,Koti ⇄ Patancheru,1,Koti Bus Station (CBS),17.3833,78.4842,Central Commercial Hub,10
+218,Koti ⇄ Patancheru,2,Abids GPO,17.392,78.478,Heritage Commercial,10
+218,Koti ⇄ Patancheru,3,Lakdikapul,17.4042,78.4659,Metro Interchange,15
+218,Koti ⇄ Patancheru,4,Khairatabad,17.4125,78.459,Central Junction,15
+218,Koti ⇄ Patancheru,5,Punjagutta X Roads,17.4265,78.4526,Shopping & Metro Hub,20
+218,Koti ⇄ Patancheru,6,Ameerpet Metro,17.4375,78.4482,Major Metro Interchange,20
+218,Koti ⇄ Patancheru,7,SR Nagar,17.443,78.4415,Residential & Coaching Hub,25
+218,Koti ⇄ Patancheru,8,Erragadda,17.4525,78.4328,Market Zone,25
+218,Koti ⇄ Patancheru,9,Bharat Nagar,17.459,78.428,Metro Station,25
+218,Koti ⇄ Patancheru,10,Moosapet,17.464,78.423,Commercial Junction,30
+218,Koti ⇄ Patancheru,11,Kukatpally (KPHB),17.4947,78.3996,High-Density Residential Hub,30
+218,Koti ⇄ Patancheru,12,JNTU College,17.4988,78.3892,Educational Zone,30
+218,Koti ⇄ Patancheru,13,Nizampet X Roads,17.499,78.378,Residential Junction,35
+218,Koti ⇄ Patancheru,14,Miyapur Metro Terminal,17.4968,78.3547,Metro Line 1 Terminal,35
+218,Koti ⇄ Patancheru,15,Madinaguda,17.494,78.344,Commercial Strip,35
+218,Koti ⇄ Patancheru,16,Chandanagar,17.492,78.334,Market Hub,40
+218,Koti ⇄ Patancheru,17,Lingampally Station,17.4851,78.3182,Railway Sub-Terminal,40
+218,Koti ⇄ Patancheru,18,BHEL Township,17.495,78.298,Industrial Township,40
+218,Koti ⇄ Patancheru,19,ICRISAT Gate,17.512,78.281,Research Institute,45
+218,Koti ⇄ Patancheru,20,Patancheru Bus Station,17.5312,78.2644,Outer West Industrial Hub,45
+100,Secunderabad ⇄ Mehdipatnam,1,Secunderabad Railway Station,17.4344,78.5018,Major Railway Terminal,10
+100,Secunderabad ⇄ Mehdipatnam,2,Patny / Paradise Circle,17.4411,78.487,Food & Commercial Center,10
+100,Secunderabad ⇄ Mehdipatnam,3,Begumpet Airport / Old Airport,17.4448,78.4682,Aviation Zone,15
+100,Secunderabad ⇄ Mehdipatnam,4,Begumpet Flyover,17.439,78.459,Metro Corridor,15
+100,Secunderabad ⇄ Mehdipatnam,5,Punjagutta X Roads,17.4265,78.4526,Major Intersection,20
+100,Secunderabad ⇄ Mehdipatnam,6,Nagarjuna Circle (Banjara Hills),17.421,78.4505,Banjara Hills Rd 1,20
+100,Secunderabad ⇄ Mehdipatnam,7,Masab Tank,17.4065,78.449,Flyover Junction,20
+100,Secunderabad ⇄ Mehdipatnam,8,NMDC,17.399,78.4445,Institutional Zone,25
+100,Secunderabad ⇄ Mehdipatnam,9,SD Eye Hospital,17.3945,78.4415,Medical Center,25
+100,Secunderabad ⇄ Mehdipatnam,10,Mehdipatnam Bus Depot,17.3916,78.4398,Major Southwest Terminal,25
+127K,Koti ⇄ Kondapur / Gachibowli,1,Koti Bus Station (CBS),17.3833,78.4842,Central Commercial Hub,10
+127K,Koti ⇄ Kondapur / Gachibowli,2,Mozamjahi Market,17.388,78.476,Heritage Market,10
+127K,Koti ⇄ Kondapur / Gachibowli,3,Lakdikapul,17.4042,78.4659,Metro Interchange,15
+127K,Koti ⇄ Kondapur / Gachibowli,4,Masab Tank,17.4065,78.449,Flyover Junction,15
+127K,Koti ⇄ Kondapur / Gachibowli,5,Mehdipatnam,17.3916,78.4398,Bus Depot,20
+127K,Koti ⇄ Kondapur / Gachibowli,6,Tolichowki X Roads,17.3985,78.411,Commercial Center,20
+127K,Koti ⇄ Kondapur / Gachibowli,7,Shaikpet Dargah,17.408,78.388,Connecting Corridor,25
+127K,Koti ⇄ Kondapur / Gachibowli,8,Raidurgam / Malkam Cheruvu,17.425,78.371,Metro Line 3 Terminal,30
+127K,Koti ⇄ Kondapur / Gachibowli,9,Gachibowli X Roads,17.4401,78.3489,Financial & IT Junction,30
+127K,Koti ⇄ Kondapur / Gachibowli,10,Botanical Garden,17.456,78.358,Green Zone / IT Hub,35
+127K,Koti ⇄ Kondapur / Gachibowli,11,Kothaguda X Roads,17.462,78.359,IT Corridor Cross,35
+127K,Koti ⇄ Kondapur / Gachibowli,12,Kondapur Bus Depot,17.4699,78.3578,Residential & Tech Hub,35
+49M,Secunderabad ⇄ Hitec City,1,Secunderabad Railway Station,17.4344,78.5018,Major Railway Terminal,10
+49M,Secunderabad ⇄ Hitec City,2,Paradise X Roads,17.4411,78.487,Commercial Junction,10
+49M,Secunderabad ⇄ Hitec City,3,Begumpet,17.4448,78.4682,Metro Corridor,15
+49M,Secunderabad ⇄ Hitec City,4,Ameerpet Metro,17.4375,78.4482,Major Metro Interchange,15
+49M,Secunderabad ⇄ Hitec City,5,Yousufguda Checkpost,17.437,78.431,Residential Hub,20
+49M,Secunderabad ⇄ Hitec City,6,Jubilee Hills Checkpost,17.4278,78.4111,Upscale Commercial / Metro,25
+49M,Secunderabad ⇄ Hitec City,7,Peddamma Gudi,17.431,78.404,Temple Metro Station,25
+49M,Secunderabad ⇄ Hitec City,8,Madhapur Police Station,17.439,78.394,Madhapur Core,30
+49M,Secunderabad ⇄ Hitec City,9,Cyber Towers (Hitec City),17.4504,78.3808,Epicenter of IT Industry,30
+49M,Secunderabad ⇄ Hitec City,10,Mindspace IT Park,17.442,78.381,Tech SEZ Terminal,30
+5K,Secunderabad ⇄ Charminar,1,Secunderabad Railway Station,17.4344,78.5018,Major Railway Terminal,10
+5K,Secunderabad ⇄ Charminar,2,Gandhi Hospital / Musheerabad,17.419,78.498,Medical Zone,10
+5K,Secunderabad ⇄ Charminar,3,RTC X Roads,17.4085,78.495,Entertainment & Bus Hub,15
+5K,Secunderabad ⇄ Charminar,4,Chikkadpally,17.403,78.493,City Center,15
+5K,Secunderabad ⇄ Charminar,5,Narayanguda,17.398,78.491,Metro Station,15
+5K,Secunderabad ⇄ Charminar,6,Kacheguda Railway Station,17.391,78.496,Railway Hub,20
+5K,Secunderabad ⇄ Charminar,7,Koti Bus Station,17.3833,78.4842,Central Bus Station,20
+5K,Secunderabad ⇄ Charminar,8,MGBS (Afzalgunj),17.3789,78.4812,Mahatma Gandhi Bus Station,20
+5K,Secunderabad ⇄ Charminar,9,Nayapul,17.371,78.477,Musi River Bridge,25
+5K,Secunderabad ⇄ Charminar,10,Madina Building,17.368,78.476,Old City Market,25
+5K,Secunderabad ⇄ Charminar,11,Charminar Monument,17.3616,78.4747,Historic Monument & Market,25
+222,Koti ⇄ Miyapur (via Gachibowli),1,Koti Bus Station (CBS),17.3833,78.4842,Central Terminal,10
+222,Koti ⇄ Miyapur (via Gachibowli),2,Lakdikapul,17.4042,78.4659,Metro Interchange,15
+222,Koti ⇄ Miyapur (via Gachibowli),3,Mehdipatnam,17.3916,78.4398,Bus Depot,20
+222,Koti ⇄ Miyapur (via Gachibowli),4,Tolichowki,17.3985,78.411,Commercial Area,20
+222,Koti ⇄ Miyapur (via Gachibowli),5,Gachibowli Stadium,17.4401,78.3489,Sports Complex & IT,30
+222,Koti ⇄ Miyapur (via Gachibowli),6,Cyber Towers (Hitec City),17.4504,78.3808,IT Hub,35
+222,Koti ⇄ Miyapur (via Gachibowli),7,Kothaguda X Roads,17.462,78.359,Junction,35
+222,Koti ⇄ Miyapur (via Gachibowli),8,Hafeezpet,17.483,78.347,Flyover & Residential,40
+222,Koti ⇄ Miyapur (via Gachibowli),9,Miyapur X Roads,17.4968,78.3547,Metro Terminal,40
+9K,LB Nagar ⇄ Mehdipatnam,1,LB Nagar Ring Road,17.3457,78.5522,East Gateway Terminal,10
+9K,LB Nagar ⇄ Mehdipatnam,2,Kothapet,17.361,78.539,Fruit Market Junction,10
+9K,LB Nagar ⇄ Mehdipatnam,3,Dilsukhnagar Bus Stand,17.3688,78.5247,Major Commercial / Bus Hub,15
+9K,LB Nagar ⇄ Mehdipatnam,4,Malakpet Gunj,17.373,78.503,Metro & Market,15
+9K,LB Nagar ⇄ Mehdipatnam,5,Chaderghat,17.38,78.491,River Bridge Junction,20
+9K,LB Nagar ⇄ Mehdipatnam,6,Koti Bus Station,17.3833,78.4842,Central Station,20
+9K,LB Nagar ⇄ Mehdipatnam,7,Abids,17.392,78.478,Commercial Center,20
+9K,LB Nagar ⇄ Mehdipatnam,8,Lakdikapul,17.4042,78.4659,Metro Station,25
+9K,LB Nagar ⇄ Mehdipatnam,9,Masab Tank,17.4065,78.449,Junction,25
+9K,LB Nagar ⇄ Mehdipatnam,10,Mehdipatnam Bus Depot,17.3916,78.4398,Southwest Bus Terminal,25
+113,Uppal ⇄ Sanathnagar,1,Uppal Bus Depot,17.4018,78.5602,East Ring Road Terminal,10
+113,Uppal ⇄ Sanathnagar,2,Survey of India (Uppal),17.408,78.555,Institutional,10
+113,Uppal ⇄ Sanathnagar,3,Habsiguda X Roads,17.4162,78.5518,Metro Station,15
+113,Uppal ⇄ Sanathnagar,4,Tarnaka X Roads,17.4274,78.5365,Osmania Univ Gateway,15
+113,Uppal ⇄ Sanathnagar,5,Sitaphalmandi,17.429,78.517,Railway Halt,20
+113,Uppal ⇄ Sanathnagar,6,Secunderabad Railway Station,17.4344,78.5018,Major Railway Hub,20
+113,Uppal ⇄ Sanathnagar,7,Paradise Circle,17.4411,78.487,Commercial Center,20
+113,Uppal ⇄ Sanathnagar,8,Begumpet,17.4448,78.4682,Metro Corridor,25
+113,Uppal ⇄ Sanathnagar,9,Ameerpet Metro,17.4375,78.4482,Metro Interchange,25
+113,Uppal ⇄ Sanathnagar,10,Sanathnagar Bus Stand,17.4563,78.4439,Industrial & Residential Hub,30
